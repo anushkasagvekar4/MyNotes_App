@@ -33,3 +33,18 @@ A **full-stack note-taking web application** that allows users to create, read, 
 - **Tailwind CSS**  
   For responsive and modern UI styling
 
+## 🧑‍💻 Installation & Running Locally
+
+### 🔧 Run the Backend
+
+```bash
+cd backend
+npm install
+npm run dev
+
+### 💻 Run the Frontend
+
+```bash
+cd frontend/notes_app
+npm install
+npm run dev

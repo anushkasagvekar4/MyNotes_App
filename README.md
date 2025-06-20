@@ -10,11 +10,6 @@ A **full-stack note-taking web application** that allows users to create, read, 
 
 ---
 
-## 📸 Screenshots
-
-> (Optional – add screenshots later if you like)
-
----
 
 ## 💡 Key Features
 
